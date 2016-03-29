@@ -1,0 +1,9 @@
+Thumbs.db
+**/Thumbs.db
+*.obj
+*.rdl.data
+*.[rR][dD][lL].[dD][aA][tT][aA]
+*.[Bb][Aa][Kk]
+* - Sicherung.rdl
+[Bb][iI][nN]/
+[Oo][Bb][jJ]/

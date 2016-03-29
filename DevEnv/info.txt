@@ -1,0 +1,19 @@
+﻿
+info.txt
+
+1. Verzeichnis für Entwicklungsumgebung erstellen
+2. Git-SCM (PortableGit-2.7.4-Win32.exe) ins Entwicklungsumgebungs-Verzeichnis installieren 
+3. KDiff3 in das Entwicklungsumgebungs-Verzeichnis kopieren 
+4. GitExtensions in das Entwicklungsumgebungs-Verzeichnis kopieren 
+5. Visual Studio 2008 Plugin ins Addins-Verzeichnis kopieren: 
+   von GitExtensions-2.48.03-Mono\Visual Studio Plugins\Visual Studio 2008\Addins
+   nach 
+   <Eigene_Dokumente>\Visual Studio 2008\Addins
+   kopieren (z.B. D:\Hans.Mustermann\Documents\Visual Studio 2008\Addins)
+
+6. Optional: 
+       - ExpressProfiler20 in das Entwicklungsumgebungs-Verzeichnis kopieren 
+       - Portable apps installieren (d.h. entpacken)
+	   - File installieren
+	   - https://www.youtube.com/watch?v=o4PFDKIc2fs
+	   - https://www.youtube.com/watch?v=idLyobOhtO4
